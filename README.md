@@ -4,7 +4,7 @@
   
 ## Description
   
-This command line application will allow the user to create a clean and professional README file through a series of prompts in their terminal. It will then generate the README file that they can use in their repository. This README file was created using this generator!
+This command line application allows users to create a professional README file through terminal prompts, generating a customized file for their repository. This README was created using the same generator.
   
 ## Contents
   
@@ -17,19 +17,19 @@ This command line application will allow the user to create a clean and professi
   
 ## Installation
   
-To install this application, you will need to clone the repository locally and then install the inquirer package version number 6.3.1. From here you will open the application folder in your terminal and use node to call the index.js file.
+To install this application, clone the repository locally, install inquirer package version 6.3.1, navigate to the application folder in the terminal, and use node to execute index.js.
   
 ## Usage
   
-Once the prompts begin on your screen, you will answer them in as much detail and with as much clarity as possible. Please note, the enter key will move you on to the next question. The application takes care of basic formatting, however, if you would like to add some styling to your sections, see this [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for a reference as to how to manipulate your text within the terminal to achieve the look you desire.
+When the prompts appear on your screen, provide detailed and clear answers. Press the enter key to proceed to the next question. The application handles basic formatting, but if you wish to add styling to your sections, refer to the [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for instructions on how to manipulate text within the terminal to achieve your desired appearance.
   
 ## Contributing
   
-If you would like to contribute to this application, please feel free to contact me using the links below.
+For those interested in contributing to this application, don't hesitate to get in touch using the provided links below.
   
 ## Tests
   
-There are currently no tests for this application. If you would like to suggest one, give me a shout using the links below.
+At present, there are no tests available for this application. If you have a suggestion for a test and would like to contribute, please don't hesitate to contact me using the links below. Your input is appreciated!
 
 ## License
 
