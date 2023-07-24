@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Donnie46/README_Generator/issues"
   },
-  "homepage": "https://github.com/Donnie46/README_Generator#readme"
+  "homepage": "https://github.com/Donnie46/README_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
