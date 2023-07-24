@@ -1,6 +1,4 @@
 # README Generator
-
-![](https://img.shields.io/badge/license-MIT-ff69b4)
   
 ## Description
   
@@ -39,5 +37,5 @@ MIT - [Click here to see a copy of the MIT license](https://www.mit.edu/~amini/L
 
 If you have any questions, feel free to reach out:
 
-- [AndreaRene](https://github.com/AndreaRene)
-- [andrea@interhact.net](mailto:andrea@interhact.net?subject=[GitHub]%20README.md%20Generator%20Question)
+- [DonnieRoberts](https://github.com/Donnie46)
+- [dnr.services88@gmail.com](mailto:dnr.services88@gmail.com?subject=[GitHub]%20README.md%20Generator%20Question)
