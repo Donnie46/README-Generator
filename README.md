@@ -1,10 +1,10 @@
 # README-Generator
 
-![](https://img.shields.io/badge/license-MIT-ff69b4)
-  
 ## Description
   
 This command line application allows users to create a professional README file through terminal prompts, generating a customized file for their repository. This README was created using the same generator.
+
+You can view the step by step video [here](https://drive.google.com/file/d/10PBS-bgy8W7V4qX4u3j3SP2OK4atIf-y/view?usp=drive_link)
   
 ## Contents
   
